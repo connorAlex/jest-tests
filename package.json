@@ -1,0 +1,23 @@
+{
+  "name": "jest-tests",
+  "version": "1.0.0",
+  "description": "A variety of tests, ranging from capitalization to a Caesar cipher. The goal of these tests is to become more familiar with TDD (Test Driven Development) and the utilization of Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorAlex/jest-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connorAlex/jest-tests/issues"
+  },
+  "homepage": "https://github.com/connorAlex/jest-tests#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.10",
+    "jest": "^29.0.1"
+  }
+}
